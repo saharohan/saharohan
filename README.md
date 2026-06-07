@@ -36,7 +36,7 @@ I specialize in designing scalable backend architectures, distributed workflows,
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/rohan-saha-dev
+* LinkedIn: https://linkedin.com/in/rohan-saha-dev
 * Email: [rohan62905@gmail.com](mailto:rohan62905@gmail.com)
 
 > Building systems that scale, perform and solve real business problems.
