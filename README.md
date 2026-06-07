@@ -55,4 +55,4 @@ JWT • OAuth • Microsoft Graph API • Application Insights
 * LinkedIn: linkedin.com/in/rohan-saha-dev
 * Email: [rohan62905@gmail.com](mailto:rohan62905@gmail.com)
 
-> Building systems that scale, perform, and solve real business problems.
+> Building systems that scale, perform and solve real business problems.
