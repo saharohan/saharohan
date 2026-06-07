@@ -23,7 +23,7 @@ I specialize in designing scalable backend architectures, distributed workflows,
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,java,spring,react,redux,tailwind,postgres,mongodb,redis,prisma,azure,aws,docker,git,github&perline=8" />
+ <img src="https://skillicons.dev/icons?i=nodejs,ts,js,java,spring,react,redux,tailwind,css,sass,postgres,mongodb,redis,prisma,azure,aws,docker,git,github&perline=8" />
 </p>
 
 ## 🎯 Current Focus
