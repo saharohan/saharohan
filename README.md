@@ -9,16 +9,16 @@ I specialize in designing scalable backend architectures, distributed workflows,
 * Design scalable backend systems and APIs
 * Build distributed workflows and orchestration platforms
 * Develop AI-enabled applications and conversational systems
-* Optimize performance using caching, concurrency control, and cloud-native patterns
+* Optimize performance using caching, concurrency control and cloud-native patterns
 * Create production-grade full-stack enterprise applications
 
 ## 🏆 Highlights
 
 * Built distributed Azure orchestration pipelines processing large-scale healthcare workloads
-* Developed enterprise AI chat platforms with contextual memory, web search, and file-based Q&A
+* Developed enterprise AI chat platforms with contextual memory, web search and file-based Q&A
 * Designed Redis-powered caching architectures reducing database load and improving response times
-* Built fault-tolerant integration systems with retry strategies, idempotency, and observability
-* Worked with enterprise clients across the UK, Australia, and India
+* Built fault-tolerant integration systems with retry strategies, idempotency and observability
+* Worked with enterprise clients across the UK, Australia and India
 
 ## 🛠 Tech Stack
 
