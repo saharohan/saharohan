@@ -1,6 +1,6 @@
 # Hi, I'm Rohan 👋
 
-Backend-focused Software Engineer with 4+ years of experience building distributed systems, cloud-native applications, AI-powered platforms and enterprise software at PwC.
+Backend-focused Software Engineer with 4.5+ years of experience building distributed systems, cloud-native applications, AI-powered platforms and enterprise software at PwC.
 
 I specialize in designing scalable backend architectures, distributed workflows, caching systems, API platforms and cloud deployments while also delivering modern full-stack applications when needed.
 
